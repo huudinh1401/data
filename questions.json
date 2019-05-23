@@ -2,10 +2,12 @@
 	"questions": {
 		"idTitle": 100,
 		"title": "Cơ Bản 1",
-		"titleQ": [{
+		"titleQ": [
+		{
 			"idLevel": 101,
 			"level": "Dễ",
-			"levelQ":[{
+			"levelQ":[
+			{
 				"idStt": 1011,
 				"stt":"1",
 				"sttQ":{
@@ -42,7 +44,8 @@
 			}],
 			"idLevel": 102,
 			"level": "Trung bình",
-			"levelQ": [{
+			"levelQ": [
+			{
 				"idStt": 1021,
 				"stt": "1",
 				"sttQ":{
