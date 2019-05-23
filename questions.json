@@ -39,7 +39,7 @@
 					"answerD": "She is a girl",
 					"answer": "She is a woman"
 				}
-			}],
+			},
 			"idLevel": 102,
 			"level": "Trung bình",
 			"levelQ": [{
@@ -76,7 +76,7 @@
 					"answerD": "Eat a orange",
 					"answer": "Eat an apple"
 				}
-			}],
+			},
 			"idLevel": 103,
 			"level":"Khó",
 			"levelQ": [{
