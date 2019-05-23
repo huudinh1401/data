@@ -1,12 +1,12 @@
 {
 	"questions": [{
-		"idTitle": 100,
+		"id": 100,
 		"title": "Cơ Bản 1",
 		"titleQ": [{
-			"idLevel": 101,
+			"id": 101,
 			"level": "Dễ",
 			"levelQ":[{
-				"idStt": 1011,
+				"id": 1011,
 				"stt":"1",
 				"sttQ":{
 					"type": "Chọn bản dịch đúng",
@@ -17,7 +17,7 @@
 					"answerD": "I am a student",
 					"answer": "I am a man"
 				},
-				"idStt": 1012,
+				"id": 1012,
 				"stt":"2",
 				"sttQ": {
 					"type": "Dịch câu này",
@@ -28,7 +28,7 @@
 					"answerD": "Tôi là một người đàn ông", 
 					"answer": "Anh ấy là một người đàn ông"
 				},
-				"idStt": 1013,
+				"id": 1013,
 				"stt": "3",
 				"sttQ": {
 					"type": "Chọn bản dịch đúng",
@@ -40,11 +40,11 @@
 					"answer": "She is a woman"
 				}
 			}],
-			"idLevel": 102,
+			"id": 102,
 			"level": "Trung bình",
 			"levelQ": [
 			{
-				"idStt": 1021,
+				"id": 1021,
 				"stt": "1",
 				"sttQ":{
 					"type": "Dịch câu sau",
@@ -55,7 +55,7 @@
 					"answerD": "Anh ấy là một người đàn ông và tôi là một cậu bé",
 					"answer": "Anh ấy là một người đàn ông và tôi là một cậu bé"
 				},
-				"idStt": 1022,
+				"id": 1022,
 				"stt": "2",
 				"sttQ": {
 					"type": "Chọn bản dịch đúng",
@@ -66,7 +66,7 @@
 					"answerD": "He is a boy and I am a boy", 
 					"answer": "He is a man and I am a boy"
 				},
-				"idStt": 1023,
+				"id": 1023,
 				"stt": "3",
 				"sttQ": {
 					"type": "Dịch câu sau",
@@ -78,10 +78,10 @@
 					"answer": "Eat an apple"
 				}
 			}],
-			"idLevel": 103,
+			"id": 103,
 			"level":"Khó",
 			"levelQ": [{
-				"idStt": 1031,
+				"id": 1031,
 				"stt": "1",
 				"sttQ":{
 					"type": "Dịch câu này",
@@ -92,7 +92,7 @@
 					"answerD": "The woman drink bread",
 					"answer": "The woman drinks water"
 				},
-				"idStt": 1032,
+				"id": 1032,
 				"stt": "2",
 				"sttQ":{
 					"type": "Dịch câu này",
@@ -103,7 +103,7 @@
 					"answerD": "I eat an bread",
 					"answer": "I eat bread"
 				},
-				"idStt": 1033,
+				"id": 1033,
 				"stt": "3",
 				"sttQ":{
 					"type": "Dịch câu sau",
