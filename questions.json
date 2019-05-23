@@ -70,7 +70,7 @@
 				}
 			}],
 			"level3":"Khó",
-			"levelQ3": {
+			"levelQ3": [{
 				"stt1": "1",
 				"sttQ1":{
 					"type": "Dịch câu này",
