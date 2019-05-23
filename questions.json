@@ -1,0 +1,123 @@
+{
+	"questions": [{
+		"idTitle": 100,
+		"title": "Cơ Bản 1",
+		"titleQ": [{
+			"idLevel": 101,
+			"level": "Dễ",
+			"levelQ":[{
+				"idStt": 1011,
+				"stt":"1",
+				"sttQ":{
+					"type": "Chọn bản dịch đúng",
+					"content": "Tôi là một người đàn ông",
+					"answerA": "I am a man",
+					"answerB": "I am a boy",
+					"answerC": "I am a water",
+					"answerD": "I am a student",
+					"answer": "I am a man"
+				},
+				"idStt": 1012,
+				"stt":"2",
+				"sttQ": {
+					"type": "Dịch câu này",
+					"content": "He is a man",
+					"answerA": "Tôi là một người đàn ông",
+					"answerB": "Anh ấy là một cậu bé", 
+					"answerC": "Anh ấy là một người đàn ông",
+					"answerD": "Tôi là một người đàn ông", 
+					"answer": "Anh ấy là một người đàn ông"
+				},
+				"idStt": 1013,
+				"stt": "3",
+				"sttQ": {
+					"type": "Chọn bản dịch đúng",
+					"content": "Cô ấy là một người phụ nữ",
+					"answerA": "She is a man",
+					"answerB": "She is a woman",
+					"answerC": "She is an apple",
+					"answerD": "She is a girl",
+					"answer": "She is a woman"
+				}
+			}],
+			"idLevel": 102,
+			"level": "Trung bình",
+			"levelQ": [{
+				"idStt": 1021,
+				"stt": "1",
+				"sttQ":{
+					"type": "Dịch câu sau",
+					"content": "He is a man and I am a boy",
+					"answerA": "Anh ấy là một cậu bé và tôi là một người đàn ông",
+					"answerB": "Anh ấy là một cậu bé và tôi là một cậu bé",
+					"answerC": "Anh ấy là một người đàn ông và tôi là một người đàn ông",
+					"answerD": "Anh ấy là một người đàn ông và tôi là một cậu bé",
+					"answer": "Anh ấy là một người đàn ông và tôi là một cậu bé"
+				},
+				"idStt": 1022,
+				"stt": "2",
+				"sttQ": {
+					"type": "Chọn bản dịch đúng",
+					"content": "Anh ấy là một người đàn ông và tôi là một cậu bé",
+					"answerA": "He is a boy and I am a man",
+					"answerB": "He is a man and I am a boy", 
+					"answerC": "He is a man and I am a man",
+					"answerD": "He is a boy and I am a boy", 
+					"answer": "He is a man and I am a boy"
+				},
+				"idStt": 1023,
+				"stt": "3",
+				"sttQ": {
+					"type": "Dịch câu sau",
+					"content": "Ăn một quả táo đi",
+					"answerA": "Eat an orange",
+					"answerB": "Eat an apple",
+					"answerC": "Eat a apple",
+					"answerD": "Eat a orange",
+					"answer": "Eat an apple"
+				}
+			}],
+			"idLevel": 103,
+			"level":"Khó",
+			"levelQ": [{
+				"idStt": 1031,
+				"stt": "1",
+				"sttQ":{
+					"type": "Dịch câu này",
+					"content": "Người phụ nữ uống nước",
+					"answerA": "The woman drinks water",
+					"answerB": "The woman drink water",
+					"answerC": "The woman drinks bread",
+					"answerD": "The woman drink bread",
+					"answer": "The woman drinks water"
+				},
+				"idStt": 1032,
+				"stt": "2",
+				"sttQ":{
+					"type": "Dịch câu này",
+					"content": "Tôi ăn bánh mì",
+					"answerA": "I eats bread",
+					"answerB": "I'm eat bread",
+					"answerC": "I eat bread",
+					"answerD": "I eat an bread",
+					"answer": "I eat bread"
+				},
+				"idStt": 1033,
+				"stt": "3",
+				"sttQ":{
+					"type": "Dịch câu sau",
+					"content": "I eat and drink",
+					"answerA": "Tôi ăn và tôi uống",
+					"answerB": "Tôi uống và ăn",
+					"answerC": "Tôi uống và tôi ăn",
+					"answerD": "Tôi ăn và uống",
+					"answer": "Tôi ăn và uống"
+				}
+
+			}]
+		}]
+
+	}]
+}
+
+
