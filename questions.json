@@ -37,8 +37,7 @@
 				}
 			}],
 			"level2": "Trung bình",
-			"levelQ2": 
-			{
+			"levelQ2": [{
 				"stt1": "1",
 				"sttQ1":{
 					"type": "Dịch câu sau",
