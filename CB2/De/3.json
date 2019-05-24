@@ -1,10 +1,10 @@
 {
-	"type": "Chọn bản dịch đúng",
-	"content": "Cô ấy là một người phụ nữ",
-	"answerA": "She is a man",
-	"answerB": "She is a woman",
-	"answerC": "She is an apple",
-	"answerD": "She is a girl",
-	"answer": "She is a woman"	
+	"type": "Dịch câu này",
+	"content": "You eat an apple",
+	"answerA": "Bạn ăn một quả táo",
+	"answerB": "Bạn đang ăn một quả táo",
+	"answerC": "Bạn ăn một quả cam",
+	"answerD": "Bạn đang ăn một quả cam",
+	"answer": "Bạn ăn một quả táo"	
 }
 

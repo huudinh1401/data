@@ -1,11 +1,11 @@
 {
 
-	"type": "Dịch câu sau",
-	"content": "He is a man and I am a boy",
-	"answerA": "Anh ấy là một cậu bé và tôi là một người đàn ông",
-	"answerB": "Anh ấy là một cậu bé và tôi là một cậu bé",
-	"answerC": "Anh ấy là một người đàn ông và tôi là một người đàn ông",
-	"answerD": "Anh ấy là một người đàn ông và tôi là một cậu bé",
-	"answer": "Anh ấy là một người đàn ông và tôi là một cậu bé"
+	"type": "Dịch câu này",
+	"content": "We are girls",
+	"answerA": "Chúng tôi là cô gái",
+	"answerB": "Chúng tôi là những cô gái",
+	"answerC": "Họ là những cô gái",
+	"answerD": "Chúng tôi là những người phụ nữ",
+	"answer": "Chúng tôi là những cô gái"
 }
 

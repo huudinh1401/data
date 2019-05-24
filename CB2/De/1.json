@@ -1,12 +1,12 @@
 {
 
 	"type": "Chọn bản dịch đúng",
-	"content": "Tôi là một người đàn ông",
-	"answerA": "I am a man",
-	"answerB": "I am a boy",
-	"answerC": "I am a water",
-	"answerD": "I am a student",
-	"answer": "I am a man"
-	
+	"content": "Tôi ăn một quả táo",
+	"answerA": "I eat an orange",
+	"answerB": "I eat an apple",
+	"answerC": "I eat a cake",
+	"answerD": "I like an apple",
+	"answer": "I eat an apple"
+
 }
 
