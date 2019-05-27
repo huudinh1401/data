@@ -1,10 +1,10 @@
 {
-	"type": "Dịch câu này",
-	"content": "The woman eats rice",
-	"answerA": "Người phụ nữ đang ăn cơm",
-	"answerB": "Người phụ nữ ăn cơm",
-	"answerC": "Người đàn ông ăn cơm",
-	"answerD": "Người đàn ông đang ăn cơm",
-	"answer": "Người phụ nữ ăn cơm"
+	"type": "Chọn bản dịch đúng",
+	"content": "Anh ấy là một người đàn ông và tôi là một cậu bé",
+	"answerA": "He is a boy and I am a man",
+	"answerB": "He is a man and I am a boy", 
+	"answerC": "He is a man and I am a man",
+	"answerD": "He is a boy and I am a boy", 
+	"answer": "He is a man and I am a boy"
 }
 
