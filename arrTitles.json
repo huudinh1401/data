@@ -1,0 +1,14 @@
+{
+	 "arrTitles": [
+		{ "id": 1, "title": "Cơ Bản 1", "Title": "CB1", "level": "Easy", "img": "egg.png"},
+		{ "id": 2, "title": "Cơ Bản 2", "Title": "CB2", "level": "unavailable", "img": "eggcb2_2.png"},
+		{ "id": 3, "title": "Cụm Từ", "Title": "CumTu", "level": "unavailable", "img": "cumtu_1.png"},
+		{ "id": 4, "title": 'Động Vật', "Title": 'DongVat', "level": "unavailable", "img": "animal_1.png"},
+		{ "id": 5, "title": 'Quần Áo', "Title": 'QuanAo', "level": "unavailable", "img": "clothe_1.png"},
+		{ "id": 6, "title": 'Số Nhiều', "Title": 'SoNhieu', "level": "unavailable", "img": "flower_1.png"},
+		{ "id": 7, "title": 'Màu Sắc', "Title": 'MauSac', "level": "unavailable", "img": "color_1.png"},
+		{ "id": 8, "title": 'Gia Đình', "Title": 'GiaDinh', "level": "unavailable", "img": "family_1.png"},
+		{ "id": 9, "title": 'Thời Gian', "Title": 'ThoiGian', "level": "unavailable", "img": "watch_1.png"},
+	],
+}
+

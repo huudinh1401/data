@@ -1,10 +1,10 @@
 {
-	"type": "Chọn bản dịch đúng",
-	"content": "Cô ấy là một người phụ nữ",
-	"answerA": "She is a man",
-	"answerB": "She is a woman",
-	"answerC": "She is an apple",
-	"answerD": "She is a girl",
-	"answer": "She is a woman"	
+	"type": "Dịch câu sau",
+	"content": "I eat and drink",
+	"answerA": "Tôi ăn và tôi uống",
+	"answerB": "Tôi uống và ăn",
+	"answerC": "Tôi uống và tôi ăn",
+	"answerD": "Tôi ăn và uống",
+	"answer": "Tôi ăn và uống"	
 }
 
