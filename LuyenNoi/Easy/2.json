@@ -1,6 +1,7 @@
 {
 	"type": "Đọc câu sau",
-	"content": "Good morning, Devid",
-	"answer": "Chào buổi sáng, David"
+	"content": "Good morning!",
+	"answer": "good morning",
+	"translate": "Chào buổi sáng"
 }
 

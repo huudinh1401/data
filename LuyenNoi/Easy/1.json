@@ -2,7 +2,8 @@
 
 	"type": "Đọc câu sau",
 	"content": "Hello, how are you?",
-	"answer": "hello how are you"
+	"answer": "hello how are you",
+	"translate": "Xin chào, bạn có khỏe không?"
 	
 }
 
