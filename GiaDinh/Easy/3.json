@@ -1,10 +1,10 @@
 {
 	"type": "Chọn bản dịch đúng",
-	"content": "Cô ấy là một người phụ nữ",
-	"answerA": "She is a man",
-	"answerB": "She is a woman",
-	"answerC": "She is an apple",
-	"answerD": "She is a girl",
-	"answer": "She is a woman"	
+	"content": "Cô ấy là chị của tôi",
+	"answerA": "She is my sister",
+	"answerB": "She is my brother",
+	"answerC": "She is my friend",
+	"answerD": "She is my baby",
+	"answer": "She is my sister"	
 }
 
