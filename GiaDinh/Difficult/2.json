@@ -1,10 +1,10 @@
 {
 	"type": "Dịch câu sau",
-	"content": "He is a man",
-	"answerA": "Tôi là một người đàn ông",
-	"answerB": "Anh ấy là một cậu bé", 
-	"answerC": "Anh ấy là một người đàn ông",
-	"answerD": "Tôi là một người đàn ông", 
-	"answer": "Anh ấy là một người đàn ông"
+	"content": "Sinh nhật của Phương Trinh là ngày?",
+	"answerA": "24/01",
+	"answerB": "24/02", 
+	"answerC": "24/12",
+	"answerD": "Không biết", 
+	"answer": "24/01"
 }
 
